@@ -1,2 +1,3 @@
-""" Sellecting all users from the database"""
+-- Sellecting all users from the database
+
 SELECT *FROM users;
