@@ -1,3 +1,3 @@
--- Sellecting all users from the database
+-- a script that lists all databases of your MySQL server.
 
-SELECT *FROM users;
+SHOW  DATABASES;
